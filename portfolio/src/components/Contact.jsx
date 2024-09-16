@@ -15,7 +15,7 @@ const Contact=()=>{
             <div className="SOCIALS text-[#00040f] dark:text-white text-2xl flex gap-7 mt-5 max-sm:justify-evenly">
               <a href="https://github.com/RageshriTevani" className=" hover:text-slate-500  dark:hover:text-sky-300"><SiGithub /></a>
               <a href="https://www.linkedin.com/in/RageshriTevani/" className=" hover:text-slate-500  dark:hover:text-sky-300"><SiLinkedin /></a>
-              <a href="mail to: rtevani18@gmail.com" className=" hover:text-slate-500  dark:hover:text-sky-300"><SiGmail /></a>
+              <a href="mailto:rtevani18@gmail.com" className=" hover:text-slate-500  dark:hover:text-sky-300"><SiGmail /></a>
             </div>
             <div className="flex gap-5 max-sm:justify-center">
               <button className="py-3 px-4 bg-gradient-to-t dark:from-cyan-500 dark:to-slate-300  from-blue-600 to-cyan-600 font-medium text-[12px] text-[#e1e1e1] dark:text-black outline-none mt-10 mr-3 rounded ">

@@ -50,7 +50,7 @@ const Projects = () => {
           />
 
 {/* psd to html */}
-<Project_prop 
+        <Project_prop 
           title="PSD to HTML" 
           para="Personal portfolio website created with react with tailwind css" 
           github_link=""
@@ -78,6 +78,34 @@ const Projects = () => {
             }
           />
 
+{/* figma to html */}
+        <Project_prop 
+          title="Figma to HTML" 
+          para="Book a cabin to make your day memorable while travelling" 
+          github_link="https://github.com/RageshriTevani/Projects/tree/master/project-1%20figma%20to%20html"
+          link=""
+          css3={
+              <Tooltip title="Css3" arrow>
+                <IconButton>
+                  <SiCss3 className="dark:text-slate-200 text-black" />
+                </IconButton>
+              </Tooltip>
+            }
+            javascript={
+              <Tooltip title="Javascript" arrow>
+                <IconButton>
+                  <SiJavascript className="dark:text-slate-200 text-black" />
+                </IconButton>
+              </Tooltip> 
+            }
+            bootstrap={
+              <Tooltip title="Bootstrap" arrow>
+                <IconButton>
+                  <SiBootstrap className="dark:text-slate-200 text-black" />
+                </IconButton>
+              </Tooltip>
+            }
+          />
 
 {/* fabindia */}
         <Project_prop 

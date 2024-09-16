@@ -24,7 +24,7 @@ const Projects = () => {
         <Project_prop 
           title="Portfolio Website" 
           para="Personal portfolio website created with react with tailwind css" 
-          github_link=""
+          github_link="https://github.com/RageshriTevani/Projects/tree/master/portfolio"
           link=""
             react={
               <Tooltip title="ReactJs" arrow>
@@ -53,7 +53,7 @@ const Projects = () => {
         <Project_prop 
           title="PSD to HTML" 
           para="Personal portfolio website created with react with tailwind css" 
-          github_link=""
+          github_link="https://github.com/RageshriTevani/Projects/tree/master/project-2%20psd%20to%20html"
           link=""
             react={
               <Tooltip title="ReactJs" arrow>
